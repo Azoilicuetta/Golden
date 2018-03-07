@@ -1,0 +1,2 @@
+# Golden
+Just another repository
